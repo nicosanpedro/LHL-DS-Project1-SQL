@@ -1,7 +1,7 @@
 #### What issues will you address by cleaning the data?
-#### 1. Incorrect data type
-#### 2. Incorrect numeric values on prices
-#### 3. Messy product category
+ 1. Incorrect data type
+ 2. Incorrect numeric values on prices
+ 3. Messy product category
 
 
 
