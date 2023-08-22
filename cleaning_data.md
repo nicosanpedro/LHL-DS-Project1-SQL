@@ -1,12 +1,10 @@
 #### What issues will you address by cleaning the data?
- 1. Incorrect data type
- 2. Incorrect numeric values on prices
- 3. Messy product category
+####  1. Incorrect data type
+ #### 2. Incorrect numeric values on prices
+ #### 3. Messy product category
 
 
-
-
-#### Queries:
+### Queries:
 #### Below, provide the SQL queries you used to clean your data.
 #### ------------------------------------------------------------------------------------------------------------------------------------
 #### 1. Incorrect Data Type: Create a new table for cleaned data and correct the data type after
