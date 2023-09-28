@@ -3,7 +3,9 @@ What are your risk areas? Identify and describe them.
 
 
 QA Process: Describe your QA process and include the SQL queries used to execute it.
-```
+
+
+<pre>```
 --DATA AUDIT 
 
 --SUMMARY STATISTICS
@@ -40,5 +42,5 @@ SELECT
 FROM all_sessions
 GROUP BY sessionid
 HAVING COUNT(*) > 1
-ORDER BY occurrence_count DESC;```
+ORDER BY occurrence_count DESC;```</pre>
 
